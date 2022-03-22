@@ -1,0 +1,36 @@
+#topbar ul {
+    background-color: antiquewhite;
+    width: auto;
+}
+#topbar ul li {
+    display: inline;
+    text-decoration: none;
+    color: darkblue;
+}
+#topbar ul li a {
+    text-decoration: none;
+    background-color: lightgray;
+}
+#topbar ul * :hover {
+    background-color: burlywood;
+    color: whitesmoke;
+}
+div.footer {
+    background-color: antiquewhite;;
+    color: blueviolet;
+}
+#maincontainer{
+    text-align: center;
+    padding-top: 350px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+.dish{
+    height: 30px;
+    width: 215px;
+}
+.price{
+    height: 30px;
+    width: 45px;
+}

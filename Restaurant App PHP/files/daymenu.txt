@@ -1,0 +1,11 @@
+id;category;name
+1;Appetiser;The Inside
+2;Appetiser;The Botanist Kirribilli
+3;Firstcourse;Vittobeneto
+4;Firstcourse;l’Usine Gourmande
+5;Maincourse;Torotoro
+6;Maincourse;Bill’s Fried Chicken
+7;Dessert;PACT
+8;Dessert;Montenegro
+9;Drink;Holly
+10;Drink;Café Kafka

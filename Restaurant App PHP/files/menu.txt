@@ -1,0 +1,11 @@
+id;category;name;price
+1;Appetiser;Fried Prosciutto Tortellini;4
+2;Appetiser;Ham 'n' Cheese Biscuit Stacks;5
+3;Firstcourse;Tuna Empanada;8
+4;Firstcourse;Onion Frittata;10
+5;Maincourse;Double-Stack Mushroom Burgers;15
+6;Maincourse;Grilled Pizza;12.5
+7;Dessert;Carrotcake;6
+8;Dessert;Cheesecake;5.5
+9;Drink;Water;1.5
+10;Drink;Soft Drink;2.5
