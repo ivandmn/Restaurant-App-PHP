@@ -6,3 +6,5 @@ user4;pass4;staff;name4;surname4
 user5;pass5;registered;name5;surname5
 user6;pass6;registered;name6;surname6
 ivandmn;1234;registered;Ivan;de Monserrat Navarro
+ivandmn;eqw;registered;fwerfe;fewfwef
+ivandmn;1234;registered;fwerfe;fewfwef
